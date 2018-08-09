@@ -1,4 +1,4 @@
-# example-notebook
+# project-notebooks
 
 Collection of projects using jupyter notebook
 
